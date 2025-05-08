@@ -74,7 +74,7 @@ Tüm soruları doğru cevaplayan kullanıcı için tebrik mesajı.
 
 ## 👨‍💻 Proje Ekibi
 
-- **Kadir IR** – 1220505055  
+- **Kadir IR** – 1220505055
 - **Didem Gümüş** – 1220505059  
 
 ---
